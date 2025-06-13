@@ -14,7 +14,7 @@ var schemes = {
   UAI优化顶功: 'Q=iu,W=en,E=zh,R=ou,T=ue ve ui,Y=uan,U=sh,I=ch,O=uo -,P=un,A=^,S=ao,D=ang,F=eng er,G=ing,H=ong iong,J=ai 0,K=an,L=ian uai,FH=iang uang \\,X=ia ua,C=ie,V=|,B=in,N=iao,M=ei,CH=/',
   乱序优化: 'Q=ua,W=x uan,E=q uang v,R=j ue ve ui,T=0 un,Y=c iu,U=g ing,I=k iong ou,O=h iang,P=ie,A=t ong,S=l ao,D=y ai,F=d an,G=n ang,H=r in,J=sh e,K=w i er,L=zh u,FH=ch a ia,Z=p ei,X=m en,C=f eng,V=b o uo,B=uai,N=s iao,M=z ian',
   六六: 'W=ao,R=ei,T=ian,Y=iao,U=sh,I=ch,O=uo,P=ou,S=ai,D=en,F=eng,G=ua ia,H=uai ue ve,J=un,K=in,L=ing,FH=ong iong,Z=an,X=ang,C=ie er,V=zh ui,B=uan,N=uang iang,M=iu',
-  BEN: 'Q=ang,W=en,E=zh,R=ai,T=ian,Y=ing,U=,I=sh er,O=uo 0,P=uan,A=ch,S=eng,D=ou,F=ao,G=ie,H=ui ue ve,J=,K=iu,L=ong iong,FH=iang uang,Z=ua ia,X=iao,C=un,V=in uai,B=,N=an,M=ei,DH=,JH=,CH=',
+  BEN: 'Q=ang,W=en,E=zh,R=ai,T=ian,Y=ing,U=,I=sh er,O=uo 0,P=uan,A=ch,S=eng,D=ou,F=ao,G=ie,H=ui ue ve,J=,K=iu,L=ong iong,FH=iang uang,Z=un,X=ua ia,C=iao,V=in uai,B=,N=an,M=ei,DH=,JH=,CH=',
   empty: 'Q=,W=,E=,R=,T=,Y=,U=,I=,O=,P=,A=,S=,D=,F=,G=,H=,J=,K=,L=,FH=,Z=,X=,C=,V=,B=,N=,M=,DH=,JH=,CH=',
   全拼: 'Q=,W=,E=,R=,T=,Y=,U=,I=,O=,P=,A=,S=,D=,F=,G=,H=,J=,K=,L=,FH=,Z=,X=,C=,V=,B=,N=,M=,DH=,JH=,CH='
 };
